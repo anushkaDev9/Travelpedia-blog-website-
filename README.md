@@ -10,4 +10,3 @@
 - Making responsive UI
 - Connecting backend to database using REST API
 - Conecting Frontend to Mongodb. 
- # Preview 

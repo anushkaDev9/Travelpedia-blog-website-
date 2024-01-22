@@ -1,0 +1,8 @@
+.div-nav{
+    display: flex;
+    
+}
+.main-navigation__drawer-nav {
+    height: 100%;
+   background-color: aqua;
+  }

@@ -1,0 +1,30 @@
+.addPlace{
+    width:80%;
+    border-radius:5px;
+    height: 30px;
+    border:2px solid rgb(92, 91, 91)
+}
+.loginInput{
+    width:80%;
+    border-radius:5px;
+    height: 30px;
+    border:2px solid rgb(92, 91, 91)
+}
+.loginError{
+    width:80%;
+    border-radius:5px;
+    height: 30px;
+    border:2px solid rgb(232, 19, 19)
+}
+.signUp{
+    width:80%;
+    border-radius:5px;
+    height: 30px;
+    border:2px solid rgb(92, 91, 91)
+}
+.signUpError{
+    width:80%;
+    border-radius:5px;
+    height: 30px;
+    border:2px solid rgb(232, 19, 19)
+}

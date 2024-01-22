@@ -1,0 +1,19 @@
+.div-addPlace{
+    width: 80%;
+    margin-top: 5.5rem;
+    margin-left: 7rem;
+    float: left;
+    border-radius:5px;
+  background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 0 1rem;
+    z-index: 5;
+    color:black;
+    border:2px solid rgb(184, 177, 177);
+    box-shadow: 2px 2px 2px 2px grey;
+}
+@media (max-width:600px){
+  .div-addPlace{
+    margin-left: 2rem;
+  }
+}

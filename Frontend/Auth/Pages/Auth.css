@@ -1,0 +1,26 @@
+.div-auth{
+    margin-top: 5rem;
+    border:2px solid grey;
+    width:40%;
+    margin-left: 25rem;
+    padding-left: 2.5rem;
+    box-shadow: 2px 2px 2px grey;
+    border-radius: 5px;
+}
+.div-auth ul{
+    list-style-type: none;
+}
+.div-auth li{
+    float: left; 
+}
+@media (max-width:600px){
+    .div-auth{
+        margin-top: 5rem;
+        border:2px solid grey;
+        width:80%;
+        margin-left: 2rem;
+        padding-left: 2,5rem;
+        box-shadow: 2px 2px 2px grey;
+        border-radius: 5px;
+    }
+}
